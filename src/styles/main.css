@@ -1,0 +1,16 @@
+video {
+    width: 100%;
+}
+
+button:focus {
+    border: 1px solid #00f;
+}
+
+button {
+    background: none;
+    border: 0;
+}
+
+progress {
+    width: 100%;
+}
